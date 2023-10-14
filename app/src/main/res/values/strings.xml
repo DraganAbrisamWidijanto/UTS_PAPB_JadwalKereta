@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS Dragan</string>
+    <string-array name="stasiun_asal_array">
+        <item>Gambir-Jakarta</item>
+        <item>Tugu-Jogjakarta</item>
+        <item>SurabayaKota-Surabaya</item>
+    </string-array>
+</resources>
